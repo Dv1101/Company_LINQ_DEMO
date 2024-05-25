@@ -1,0 +1,14 @@
+C:\Files\code\dotnet\LINQ_DEMO_PROJ\Company_LINQ_DEMO\Company_LINQ_DEMO\bin\Debug\net8.0\Company_LINQ_DEMO.exe
+C:\Files\code\dotnet\LINQ_DEMO_PROJ\Company_LINQ_DEMO\Company_LINQ_DEMO\bin\Debug\net8.0\Company_LINQ_DEMO.deps.json
+C:\Files\code\dotnet\LINQ_DEMO_PROJ\Company_LINQ_DEMO\Company_LINQ_DEMO\bin\Debug\net8.0\Company_LINQ_DEMO.runtimeconfig.json
+C:\Files\code\dotnet\LINQ_DEMO_PROJ\Company_LINQ_DEMO\Company_LINQ_DEMO\bin\Debug\net8.0\Company_LINQ_DEMO.dll
+C:\Files\code\dotnet\LINQ_DEMO_PROJ\Company_LINQ_DEMO\Company_LINQ_DEMO\bin\Debug\net8.0\Company_LINQ_DEMO.pdb
+C:\Files\code\dotnet\LINQ_DEMO_PROJ\Company_LINQ_DEMO\Company_LINQ_DEMO\obj\Debug\net8.0\Company_LINQ_DEMO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Files\code\dotnet\LINQ_DEMO_PROJ\Company_LINQ_DEMO\Company_LINQ_DEMO\obj\Debug\net8.0\Company_LINQ_DEMO.AssemblyInfoInputs.cache
+C:\Files\code\dotnet\LINQ_DEMO_PROJ\Company_LINQ_DEMO\Company_LINQ_DEMO\obj\Debug\net8.0\Company_LINQ_DEMO.AssemblyInfo.cs
+C:\Files\code\dotnet\LINQ_DEMO_PROJ\Company_LINQ_DEMO\Company_LINQ_DEMO\obj\Debug\net8.0\Company_LINQ_DEMO.csproj.CoreCompileInputs.cache
+C:\Files\code\dotnet\LINQ_DEMO_PROJ\Company_LINQ_DEMO\Company_LINQ_DEMO\obj\Debug\net8.0\Company_LINQ_DEMO.dll
+C:\Files\code\dotnet\LINQ_DEMO_PROJ\Company_LINQ_DEMO\Company_LINQ_DEMO\obj\Debug\net8.0\refint\Company_LINQ_DEMO.dll
+C:\Files\code\dotnet\LINQ_DEMO_PROJ\Company_LINQ_DEMO\Company_LINQ_DEMO\obj\Debug\net8.0\Company_LINQ_DEMO.pdb
+C:\Files\code\dotnet\LINQ_DEMO_PROJ\Company_LINQ_DEMO\Company_LINQ_DEMO\obj\Debug\net8.0\Company_LINQ_DEMO.genruntimeconfig.cache
+C:\Files\code\dotnet\LINQ_DEMO_PROJ\Company_LINQ_DEMO\Company_LINQ_DEMO\obj\Debug\net8.0\ref\Company_LINQ_DEMO.dll
