@@ -12,3 +12,10 @@ C:\Files\code\dotnet\LINQ_DEMO_PROJ\Company_LINQ_DEMO\Company_LINQ_DEMO\obj\Debu
 C:\Files\code\dotnet\LINQ_DEMO_PROJ\Company_LINQ_DEMO\Company_LINQ_DEMO\obj\Debug\net8.0\Company_LINQ_DEMO.pdb
 C:\Files\code\dotnet\LINQ_DEMO_PROJ\Company_LINQ_DEMO\Company_LINQ_DEMO\obj\Debug\net8.0\Company_LINQ_DEMO.genruntimeconfig.cache
 C:\Files\code\dotnet\LINQ_DEMO_PROJ\Company_LINQ_DEMO\Company_LINQ_DEMO\obj\Debug\net8.0\ref\Company_LINQ_DEMO.dll
+C:\Files\code\dotnet\LINQ_DEMO_PROJ\Company_LINQ_DEMO\Company_LINQ_DEMO\obj\Debug\net8.0\Company_LINQ_DEMO.csproj.AssemblyReference.cache
+C:\Files\code\dotnet\LINQ_DEMO_PROJ\Company_LINQ_DEMO\Company_LINQ_DEMO\obj\Debug\net8.0\Company_LINQ_DEMO.sourcelink.json
+C:\Files\code\dotnet\LINQ_DEMO_PROJ\Company_LINQ_DEMO\Company_LINQ_DEMO\bin\Debug\net8.0\TCPData.dll
+C:\Files\code\dotnet\LINQ_DEMO_PROJ\Company_LINQ_DEMO\Company_LINQ_DEMO\bin\Debug\net8.0\TCPExtensions.dll
+C:\Files\code\dotnet\LINQ_DEMO_PROJ\Company_LINQ_DEMO\Company_LINQ_DEMO\bin\Debug\net8.0\TCPData.pdb
+C:\Files\code\dotnet\LINQ_DEMO_PROJ\Company_LINQ_DEMO\Company_LINQ_DEMO\bin\Debug\net8.0\TCPExtensions.pdb
+C:\Files\code\dotnet\LINQ_DEMO_PROJ\Company_LINQ_DEMO\Company_LINQ_DEMO\obj\Debug\net8.0\Company_.98F42592.Up2Date

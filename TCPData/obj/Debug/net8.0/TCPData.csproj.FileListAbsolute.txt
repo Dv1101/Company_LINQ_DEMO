@@ -1,0 +1,12 @@
+C:\Files\code\dotnet\LINQ_DEMO_PROJ\Company_LINQ_DEMO\TCPData\bin\Debug\net8.0\TCPData.deps.json
+C:\Files\code\dotnet\LINQ_DEMO_PROJ\Company_LINQ_DEMO\TCPData\bin\Debug\net8.0\TCPData.dll
+C:\Files\code\dotnet\LINQ_DEMO_PROJ\Company_LINQ_DEMO\TCPData\bin\Debug\net8.0\TCPData.pdb
+C:\Files\code\dotnet\LINQ_DEMO_PROJ\Company_LINQ_DEMO\TCPData\obj\Debug\net8.0\TCPData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Files\code\dotnet\LINQ_DEMO_PROJ\Company_LINQ_DEMO\TCPData\obj\Debug\net8.0\TCPData.AssemblyInfoInputs.cache
+C:\Files\code\dotnet\LINQ_DEMO_PROJ\Company_LINQ_DEMO\TCPData\obj\Debug\net8.0\TCPData.AssemblyInfo.cs
+C:\Files\code\dotnet\LINQ_DEMO_PROJ\Company_LINQ_DEMO\TCPData\obj\Debug\net8.0\TCPData.csproj.CoreCompileInputs.cache
+C:\Files\code\dotnet\LINQ_DEMO_PROJ\Company_LINQ_DEMO\TCPData\obj\Debug\net8.0\TCPData.sourcelink.json
+C:\Files\code\dotnet\LINQ_DEMO_PROJ\Company_LINQ_DEMO\TCPData\obj\Debug\net8.0\TCPData.dll
+C:\Files\code\dotnet\LINQ_DEMO_PROJ\Company_LINQ_DEMO\TCPData\obj\Debug\net8.0\refint\TCPData.dll
+C:\Files\code\dotnet\LINQ_DEMO_PROJ\Company_LINQ_DEMO\TCPData\obj\Debug\net8.0\TCPData.pdb
+C:\Files\code\dotnet\LINQ_DEMO_PROJ\Company_LINQ_DEMO\TCPData\obj\Debug\net8.0\ref\TCPData.dll

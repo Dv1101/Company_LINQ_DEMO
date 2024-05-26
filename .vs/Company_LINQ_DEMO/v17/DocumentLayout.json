@@ -5,6 +5,22 @@
     {
       "AbsoluteMoniker": "D:0:0:{508F2091-8457-462D-98E4-D0446D30DD1E}|Company_LINQ_DEMO\\Company_LINQ_DEMO.csproj|c:\\files\\code\\dotnet\\linq_demo_proj\\company_linq_demo\\company_linq_demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{508F2091-8457-462D-98E4-D0446D30DD1E}|Company_LINQ_DEMO\\Company_LINQ_DEMO.csproj|solutionrelative:company_linq_demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B733A01-BF48-45E4-B1D0-A4E1FA5E2381}|TCPData\\TCPData.csproj|c:\\files\\code\\dotnet\\linq_demo_proj\\company_linq_demo\\tcpdata\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B733A01-BF48-45E4-B1D0-A4E1FA5E2381}|TCPData\\TCPData.csproj|solutionrelative:tcpdata\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B733A01-BF48-45E4-B1D0-A4E1FA5E2381}|TCPData\\TCPData.csproj|c:\\files\\code\\dotnet\\linq_demo_proj\\company_linq_demo\\tcpdata\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B733A01-BF48-45E4-B1D0-A4E1FA5E2381}|TCPData\\TCPData.csproj|solutionrelative:tcpdata\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7B8466F-C1E2-4EC1-A66D-4FED5F308D5B}|TCPExtensions\\TCPExtensions.csproj|c:\\files\\code\\dotnet\\linq_demo_proj\\company_linq_demo\\tcpextensions\\extension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7B8466F-C1E2-4EC1-A66D-4FED5F308D5B}|TCPExtensions\\TCPExtensions.csproj|solutionrelative:tcpextensions\\extension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B733A01-BF48-45E4-B1D0-A4E1FA5E2381}|TCPData\\TCPData.csproj|c:\\files\\code\\dotnet\\linq_demo_proj\\company_linq_demo\\tcpdata\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B733A01-BF48-45E4-B1D0-A4E1FA5E2381}|TCPData\\TCPData.csproj|solutionrelative:tcpdata\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,11 +30,59 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Extension.cs",
+              "DocumentMoniker": "C:\\Files\\code\\dotnet\\LINQ_DEMO_PROJ\\Company_LINQ_DEMO\\TCPExtensions\\Extension.cs",
+              "RelativeDocumentMoniker": "TCPExtensions\\Extension.cs",
+              "ToolTip": "C:\\Files\\code\\dotnet\\LINQ_DEMO_PROJ\\Company_LINQ_DEMO\\TCPExtensions\\Extension.cs",
+              "RelativeToolTip": "TCPExtensions\\Extension.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T06:56:52.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Data.cs",
+              "DocumentMoniker": "C:\\Files\\code\\dotnet\\LINQ_DEMO_PROJ\\Company_LINQ_DEMO\\TCPData\\Data.cs",
+              "RelativeDocumentMoniker": "TCPData\\Data.cs",
+              "ToolTip": "C:\\Files\\code\\dotnet\\LINQ_DEMO_PROJ\\Company_LINQ_DEMO\\TCPData\\Data.cs",
+              "RelativeToolTip": "TCPData\\Data.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAApwDMAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T06:44:49.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Files\\code\\dotnet\\LINQ_DEMO_PROJ\\Company_LINQ_DEMO\\TCPData\\Department.cs",
+              "RelativeDocumentMoniker": "TCPData\\Department.cs",
+              "ToolTip": "C:\\Files\\code\\dotnet\\LINQ_DEMO_PROJ\\Company_LINQ_DEMO\\TCPData\\Department.cs",
+              "RelativeToolTip": "TCPData\\Department.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T06:42:51.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Files\\code\\dotnet\\LINQ_DEMO_PROJ\\Company_LINQ_DEMO\\TCPData\\Employee.cs",
+              "RelativeDocumentMoniker": "TCPData\\Employee.cs",
+              "ToolTip": "C:\\Files\\code\\dotnet\\LINQ_DEMO_PROJ\\Company_LINQ_DEMO\\TCPData\\Employee.cs",
+              "RelativeToolTip": "TCPData\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T06:29:12.117Z"
             },
             {
               "$type": "Document",
@@ -28,7 +92,7 @@
               "RelativeDocumentMoniker": "Company_LINQ_DEMO\\Program.cs",
               "ToolTip": "C:\\Files\\code\\dotnet\\LINQ_DEMO_PROJ\\Company_LINQ_DEMO\\Company_LINQ_DEMO\\Program.cs",
               "RelativeToolTip": "Company_LINQ_DEMO\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAACABAAAAAAAAAAAmwC4BAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-25T06:19:01.368Z",
               "EditorCaption": ""
